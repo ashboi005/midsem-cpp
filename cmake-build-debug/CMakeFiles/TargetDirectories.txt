@@ -1,0 +1,3 @@
+C:/Users/Ashwath Soni/CLionProjects/midsem/cmake-build-debug/CMakeFiles/midsem.dir
+C:/Users/Ashwath Soni/CLionProjects/midsem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ashwath Soni/CLionProjects/midsem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
