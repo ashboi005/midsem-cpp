@@ -2,6 +2,8 @@
 #include<conio.h>
 #include<string.h>  // For string manipulation functions
 // this only works in vscode turbo doesn't include string library
+// we have to use char datatype to store names
+
 #include<ctype.h>   // For tolower() function
 
 class NameSort {
