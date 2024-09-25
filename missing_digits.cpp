@@ -26,16 +26,11 @@ public:
 
 int main() {
     clrscr();
-
     MissingDigits md;
     char str[100];
-
     cout << "Enter a numeric string: ";
     cin >> str;  // Read the string input
-
-    // Call the function to find missing digits
-    md.findMissingDigits(str);
-
+    md.findMissingDigits(str);      // Call the function to find missing digits
     getch();
     return 0;
 }

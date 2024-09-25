@@ -12,7 +12,7 @@ public:
             return;
         }
         for(int i=2;i<=num/2;i++){
-            if(num%2==0){
+            if(num%i==0){
                 cout<<"not prime"<<endl;
                 return;
             }

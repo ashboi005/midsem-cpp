@@ -145,6 +145,24 @@ build CMakeFiles/midsem.dir/missing_digits_2.cpp.obj: CXX_COMPILER__midsem_unsca
   OBJECT_DIR = CMakeFiles\midsem.dir
   OBJECT_FILE_DIR = CMakeFiles\midsem.dir
 
+build CMakeFiles/midsem.dir/friend_function.cpp.obj: CXX_COMPILER__midsem_unscanned_Debug C$:/Users/Ashwath$ Soni/CLionProjects/midsem/friend_function.cpp || cmake_object_order_depends_target_midsem
+  DEP_FILE = CMakeFiles\midsem.dir\friend_function.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\midsem.dir
+  OBJECT_FILE_DIR = CMakeFiles\midsem.dir
+
+build CMakeFiles/midsem.dir/friend_class.cpp.obj: CXX_COMPILER__midsem_unscanned_Debug C$:/Users/Ashwath$ Soni/CLionProjects/midsem/friend_class.cpp || cmake_object_order_depends_target_midsem
+  DEP_FILE = CMakeFiles\midsem.dir\friend_class.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\midsem.dir
+  OBJECT_FILE_DIR = CMakeFiles\midsem.dir
+
+build CMakeFiles/midsem.dir/pallindrome.cpp.obj: CXX_COMPILER__midsem_unscanned_Debug C$:/Users/Ashwath$ Soni/CLionProjects/midsem/pallindrome.cpp || cmake_object_order_depends_target_midsem
+  DEP_FILE = CMakeFiles\midsem.dir\pallindrome.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\midsem.dir
+  OBJECT_FILE_DIR = CMakeFiles\midsem.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target midsem
@@ -153,7 +171,7 @@ build CMakeFiles/midsem.dir/missing_digits_2.cpp.obj: CXX_COMPILER__midsem_unsca
 #############################################
 # Link the executable midsem.exe
 
-build midsem.exe: CXX_EXECUTABLE_LINKER__midsem_Debug CMakeFiles/midsem.dir/calculator.cpp.obj CMakeFiles/midsem.dir/bubblesort_numbers.cpp.obj CMakeFiles/midsem.dir/char_count_in_str.cpp.obj CMakeFiles/midsem.dir/bubblesort_names.cpp.obj CMakeFiles/midsem.dir/multiplication_table.cpp.obj CMakeFiles/midsem.dir/missing_digits.cpp.obj CMakeFiles/midsem.dir/even_numbers.cpp.obj CMakeFiles/midsem.dir/product_of_digits_of_num.cpp.obj CMakeFiles/midsem.dir/factorial.cpp.obj CMakeFiles/midsem.dir/armstrong.cpp.obj CMakeFiles/midsem.dir/prime.cpp.obj CMakeFiles/midsem.dir/odd-even.cpp.obj CMakeFiles/midsem.dir/simple-interest.cpp.obj CMakeFiles/midsem.dir/stack.cpp.obj CMakeFiles/midsem.dir/queue.cpp.obj CMakeFiles/midsem.dir/missing_digits_2.cpp.obj
+build midsem.exe: CXX_EXECUTABLE_LINKER__midsem_Debug CMakeFiles/midsem.dir/calculator.cpp.obj CMakeFiles/midsem.dir/bubblesort_numbers.cpp.obj CMakeFiles/midsem.dir/char_count_in_str.cpp.obj CMakeFiles/midsem.dir/bubblesort_names.cpp.obj CMakeFiles/midsem.dir/multiplication_table.cpp.obj CMakeFiles/midsem.dir/missing_digits.cpp.obj CMakeFiles/midsem.dir/even_numbers.cpp.obj CMakeFiles/midsem.dir/product_of_digits_of_num.cpp.obj CMakeFiles/midsem.dir/factorial.cpp.obj CMakeFiles/midsem.dir/armstrong.cpp.obj CMakeFiles/midsem.dir/prime.cpp.obj CMakeFiles/midsem.dir/odd-even.cpp.obj CMakeFiles/midsem.dir/simple-interest.cpp.obj CMakeFiles/midsem.dir/stack.cpp.obj CMakeFiles/midsem.dir/queue.cpp.obj CMakeFiles/midsem.dir/missing_digits_2.cpp.obj CMakeFiles/midsem.dir/friend_function.cpp.obj CMakeFiles/midsem.dir/friend_class.cpp.obj CMakeFiles/midsem.dir/pallindrome.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\midsem.dir

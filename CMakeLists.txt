@@ -19,4 +19,7 @@ add_executable(midsem
         simple-interest.cpp
         stack.cpp
         queue.cpp
-        missing_digits_2.cpp)
+        missing_digits_2.cpp
+        friend_function.cpp
+        friend_class.cpp
+        pallindrome.cpp)
