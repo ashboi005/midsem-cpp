@@ -3,6 +3,7 @@
 class Fact{
 private:
     int num;
+    int answer;
 public:
     void inputs(){
       cout<<"enter number ";
@@ -12,10 +13,10 @@ public:
     }
     int factorial(num){
         int factor=1;
-        if (num=0){
+        if (num==0){
           return 1;
         }else{
-          answer=factorial(num-1);
+          answer=num*factorial(num-1);
         }
         return answer;
     }
