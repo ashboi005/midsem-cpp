@@ -12,7 +12,7 @@ public:
         }
     }
 
-    // Function to sort names using bubble sort
+    // Function to sort names using bubble sort algo
     void bubbleSort(char names[10][50], int n) {
         char temp[50];
 
@@ -49,7 +49,7 @@ int main() {
     for (int i = 0; i < n; i++) {
         cout << "Enter name " << (i + 1) << ": ";
         cin >> names[i];
-        obj.toLowerCase(names[i]);  // Convert the input name to lowercase
+        obj.toLowerCase(names[i]);  // Convert the input name to lowercase 
     }
 
     // Call the function to sort the names
